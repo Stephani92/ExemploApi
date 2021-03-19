@@ -25,7 +25,7 @@ namespace ExemploEntity_API.Controllers
 			dados.Add(new Cliente("2", "Jose Santos", "358.800.700-01", 1851.88));
 			dados.Add(new Cliente("3", "Miguel Castro Silva", "269.855.888-51", 3854.21));
 			dados.Add(new Cliente("4", "Amanda Gasper Libero", "258.587.854-55", 8755.00));
-			dados.Add(new Cliente("4", "Thais Alcantara Machado", "211.855.854-99", 1250.01));
+			dados.Add(new Cliente("5", "Thais Alcantara Machado", "211.855.854-99", 1250.01));
 		}
 
 		[HttpGet]
